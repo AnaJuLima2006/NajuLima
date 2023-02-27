@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajulima2006&label=Profile%20views&color=0e75b6&style=flat" alt="anajulima2006" /> </p>
 
-- 🌱 No momento estou finalizando... **1° Mtec, na Etec de Guaianazes**
+- 🌱 No momento estou cursando... **2° Mtec, na Etec de Guaianazes**
 
 - 📫 Para me encontrar... **anajuprogramer@gmail.com**
 

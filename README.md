@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou au Ana Júlia Lima dos Santos França</h1>
+<h1 align="center">Olá 👋, Eu sou a Ana Júlia </h1>
 <h3 align="center">Sou uma Desenvolvedora de Sistemas em formação, que ama ler e assistir séries e filmes</ h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajulima2006&label=Profile%20views&color=0e75b6&style=flat" alt="anajulima2006" /> </p>

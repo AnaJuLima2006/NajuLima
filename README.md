@@ -55,7 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anajulima2006&show_icons=true&locale=en" alt="anajulima2006" width="70%" height="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anajulima2006&" alt="anajulima2006" width="70%" height="70%" />
-</p>
 

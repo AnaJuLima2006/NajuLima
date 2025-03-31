@@ -20,9 +20,7 @@
 <div>
 <h3 align="center">Idiomas e ferramentas:</h3>
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
-  </a>
+ 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="60" height="60"/>
   </a>

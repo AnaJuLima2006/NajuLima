@@ -8,7 +8,7 @@
 <div>
   <h3 align="center">Conecte-se comigo:</h3>
   <p align="center">
-    <a href="https://[instagram.com/anajulima2006](https://www.instagram.com/naaaaju2006/)" target="_blank">
+    <a href="https://www.instagram.com/naaaaju2006/" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anajulima2006" height="60" width="60" />
     </a>
     <a href="https://discord.gg/jujudrama#2503" target="_blank">
